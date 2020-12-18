@@ -1,0 +1,61 @@
+* {
+    color: dodgerblue;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(https://products.ls.graphics/paaatterns/images/027-p-500.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100vh;
+    border-style: none;
+}
+
+legend{
+    font-size: 1.5rem;
+}
+
+.fuck{
+    margin-bottom: -2.3rem;
+}
+
+label{
+    margin-bottom: -2.3rem;
+    font-size: 0.6rem;
+    
+}
+
+input, textarea{
+    background-color: rgba(30, 143, 255, 0.378);
+    border-style: none;
+    border-radius: 5px;
+    padding: 0.4rem;
+   
+}
+
+p {
+    text-align: center;
+}
+
+span{
+    color: black;
+}
+
+button{
+    padding: 1rem;
+    background-color: seagreen;
+    color: white;
+    font-size: 1.4rem;
+    border-radius: 5px;
+    border-style: none;
+    width: auto;
+}
+
+a {
+    margin: 0 auto;
+}
+
+
